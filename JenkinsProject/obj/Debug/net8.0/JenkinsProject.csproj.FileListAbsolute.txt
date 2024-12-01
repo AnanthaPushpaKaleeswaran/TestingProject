@@ -1,0 +1,14 @@
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\bin\Debug\net8.0\JenkinsProject.exe
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\bin\Debug\net8.0\JenkinsProject.deps.json
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\bin\Debug\net8.0\JenkinsProject.runtimeconfig.json
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\bin\Debug\net8.0\JenkinsProject.dll
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\bin\Debug\net8.0\JenkinsProject.pdb
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\JenkinsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\JenkinsProject.AssemblyInfoInputs.cache
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\JenkinsProject.AssemblyInfo.cs
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\JenkinsProject.csproj.CoreCompileInputs.cache
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\JenkinsProject.dll
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\refint\JenkinsProject.dll
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\JenkinsProject.pdb
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\JenkinsProject.genruntimeconfig.cache
+C:\Users\yogar\source\repos\JenkinsProject\JenkinsProject\obj\Debug\net8.0\ref\JenkinsProject.dll
