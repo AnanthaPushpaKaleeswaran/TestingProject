@@ -7,7 +7,7 @@ namespace JenkinsTestProject
     [TestClass]
     public class UnitTest1
     {
-        private const string text = "Jenkins Project";
+        private const string text = "Jenkins";
         [TestMethod]
         public void TestMethod1()
         {
