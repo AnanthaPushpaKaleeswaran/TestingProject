@@ -7,7 +7,6 @@ namespace JenkinsProject
         public static void Main()
         {
             Console.WriteLine("Jenkins"); 
-            //let do some changes
         }
     }
 }
